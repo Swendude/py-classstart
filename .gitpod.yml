@@ -1,0 +1,4 @@
+image: python
+tasks:
+  - command: >
+        pip install -r requirements.txt
